@@ -20,7 +20,7 @@
 #define VIRTUAL_PART_CNT PART_CNT 
 #define PAGE_SIZE 4096 
 #define CL_SIZE 64 
-#define CPU_FREQ 2.6 
+#define CPU_FREQ 2.2 
 #define HW_MIGRATE false 
 #define WARMUP 0 
 #define WORKLOAD YCSB 
