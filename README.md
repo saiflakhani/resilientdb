@@ -58,7 +58,8 @@ Use the Script ``resilientDB-docker``
 * Adjust the parameters in ``config.h`` such as number of replicas and clients
 * Run script as: **./scripts/startResilientDB.sh \<number of servers\> \<number of clients\> \<batch size\>**
 
-* All the results after running the script will be stored inside the **results** folder.
+* All the results after running the script will be stored inside the **results** foldername.
+* MEOW MEOW
 
 
 #### What is happening behind the scenes?
